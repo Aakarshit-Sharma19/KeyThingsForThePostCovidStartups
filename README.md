@@ -8,15 +8,11 @@
   - Go digital 
   - Code management tools 
   - Video software like zoom
-  - Remote management teams 
+  - Remote team management software  
   - Clean tech startups and 
-
   - Education 
-
   - Insurance ( healthcare especially in these times) 
-
     'predict your long time vision' you have to strategize for the long time 
-
   - Mobility is very important even if the digital competence is significant and necessary  
 
      
@@ -67,5 +63,6 @@
   - People are more conservative while putting money on your product, thus the payment on the part of the customers can be delayed 
   - So, building and maintaining customer trust is essential.
 - How to manage your financial in the covid times .
+  
   - Keep only half of the funds for expenditure and do not use the other half of funds keeping them, preferably, in a separate bank account.
 - The focus should be mainly on the execution part.
