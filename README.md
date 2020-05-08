@@ -5,19 +5,28 @@
   Covid Impacts
 
   - Sustainable energy 
-  - Go digital 
-  - Code management tools 
-  - Video software like zoom
-  - Remote team management software  
-  - Clean tech startups and 
-  - Education 
-  - Insurance ( healthcare especially in these times) 
-    'predict your long time vision' you have to strategize for the long time 
-  - Mobility is very important even if the digital competence is significant and necessary  
 
+  - Go digital 
+
+  - Code management tools 
+
+  - Video software like zoom
+
+  - Remote team management software  
+
+  - Clean tech startups and 
+
+  - Education 
+
+  - Insurance ( healthcare especially in these times) 
+    
      
 
 - ###### What should be the focus on 
+
+  - 'Predict your Long time Vision' you should strategize for the long term
+
+  - Mobility is very important even if the digital competence is significant and necessary  
 
   - Great time for customer acquisition and even if the revenue is insufficient , customers will be the source of revenue in the future.
 
@@ -55,14 +64,18 @@
   - Employees should be multi skilled and should develop the skills in multiple domains (Ex - programmers can develop digital marketing skills)
   - They should be able to do anything in a cost effective manner 
   - Employees should also grow with their employers in learning new sills for the progress of themselves and the company  
+  
 - Entrepreneurs and employees should learn about every field so that they can use that knowledge for the betterment of their organisation and moving their organisation forward  
+
 - How to maintain relationships with customers  
   - Stay very close to users - By including your users in development process in any form and take their feedback.
   - Customer feedback is very important 
   - Customer satisfaction can be developed in the product by engaging the customers and taking their feedback   
   - People are more conservative while putting money on your product, thus the payment on the part of the customers can be delayed 
   - So, building and maintaining customer trust is essential.
+  
 - How to manage your financial in the covid times .
   
   - Keep only half of the funds for expenditure and do not use the other half of funds keeping them, preferably, in a separate bank account.
+  
 - The focus should be mainly on the execution part.
