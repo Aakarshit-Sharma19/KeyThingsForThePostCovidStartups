@@ -1,4 +1,4 @@
-# Key things brought up in the webinar on 'Post Covid-19 Start-Up' by the team of CIEES at DIT University 
+# Key things brought up in the webinar on 'Post Covid-19 Start-Up' by the team of CIIES at DIT University 
 
 - ###### Fields in which Startups can have an impact 
 
